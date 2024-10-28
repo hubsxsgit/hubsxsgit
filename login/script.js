@@ -3,7 +3,7 @@
         var u = document.getElementById("username").value;
         var p = document.getElementById("password").value;
         if (u === "test" && p === "test") {
-            window.location.href = "https://hubsxsgit.github.io/hubsxsgit/";
+            window.location.href = "https://hubsxsgit.github.io/hubsxsgit/sxs/index.html";
         } else {
             alert("아이디 또는 비밀번호가 틀렸습니다.");
         }
